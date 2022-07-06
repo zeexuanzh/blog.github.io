@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zixuanzhao.com</id>
+    <title>Zixuan Zhao</title>
+    <updated>2022-07-06T01:15:08.037Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zixuanzhao.com"/>
+    <link rel="self" href="https://zixuanzhao.com/atom.xml"/>
+    <logo>https://zixuanzhao.com/images/avatar.png</logo>
+    <icon>https://zixuanzhao.com/favicon.ico</icon>
+    <rights>All rights reserved 2022, Zixuan Zhao</rights>
+    <entry>
+        <title type="html"><![CDATA[About Me]]></title>
+        <id>https://zixuanzhao.com/post/about-me/</id>
+        <link href="https://zixuanzhao.com/post/about-me/">
+        </link>
+        <updated>2022-07-04T03:44:37.000Z</updated>
+        <content type="html"><![CDATA[<p>Since 2019, I have been studying at the University of Ottawa for my master's and PhD. Currently, I am an doctoral candidate at the department of communication at uOttawa.</p>
+<p>I concentrate on media studies. My research interest is the issue of cultural self-identification and politicization recognition in Arab Canadian cinematographic products. I am particularly interested in how those filmmakers, both Francophone and Anglophone (I speak English and French), reconcile with their multiple layers of the cultural identity of being Arab and Canadian at the same time. That's to say, do they show a specific preference towards one of the identities? Why?</p>
+<p>Outside my dissertation, I am also interested in the evolvement of transnational films and series in various countries or regions—especially in Asian regions—with the advent of streaming platforms, such as Netflix, Amazon Prime, and Disney+.</p>
+]]></content>
+    </entry>
+</feed>
